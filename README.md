@@ -1,5 +1,4 @@
-# codsoft_Task3
-**Task 3 assigned by codsoft :- creation of a Password Generator using python.**
+# Password Generator - GUI using python.**
 
 _**It involves usage of python tkinter**_
 
