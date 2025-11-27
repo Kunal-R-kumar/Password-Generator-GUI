@@ -1,4 +1,5 @@
 # Password Generator - GUI using python.**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/464c6124-8db0-4721-9f98-1f03f68963af" />
 
 _**It involves usage of python tkinter**_
 
@@ -18,4 +19,3 @@ _**It involves usage of python tkinter**_
   8. High + without inclusion of sp. char.
     
 - This password Generator also provides a feature of copying generated password to clipboard.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/464c6124-8db0-4721-9f98-1f03f68963af" />
